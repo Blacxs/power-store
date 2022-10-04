@@ -1,0 +1,29 @@
+.hero-slection{
+    background-image: url(kir.jpg);
+    background-size: cover;
+    height: 20rem;
+    font-size: 30px;
+    margin-top: -37px;
+}
+
+h1{
+    text-decoration: underline;
+    color: blue;
+}
+
+.hero-contest{
+    color: tomato;
+}
+
+.best{
+    color: tomato;
+}
+#wer2{
+    text-align: center;
+    color: blue;
+
+}
+
+p{
+    font-size: 24px;
+}

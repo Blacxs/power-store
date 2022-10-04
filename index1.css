@@ -1,0 +1,12 @@
+h1
+{
+    background-color: lightcoral;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+body
+{
+    background-color: black;
+}

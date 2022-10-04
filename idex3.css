@@ -1,0 +1,18 @@
+h1
+{
+    text-align: center;
+    background-color: blue;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+body
+{
+    background-color: snow;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    
+}

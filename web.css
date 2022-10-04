@@ -1,0 +1,89 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+
+}
+.logo{
+    color:aqua
+}
+.power{
+    color: black;
+}
+
+.pt{
+  margin-top: 30px;
+  padding-left: 150px;
+  display: flex;
+  background-color: red;
+}
+.poo{
+    margin-top: 30px;
+    padding-left: 70px;
+}
+
+
+.power{
+color: black;
+}
+
+.hero-section{
+    background-image: url(kir.jpg);
+    background-size: cover;
+    height: 20rem;
+    font-size: 30px;
+    margin-top: -37px;
+}
+
+.link{
+    padding-right: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: aqua;
+}
+
+.subscribe{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: salmon;
+}
+
+.best{
+    text-align: center;
+    color: tomato;
+}
+
+.you{
+    display: flex;
+    justify-content: space-evenly;
+}
+.your{
+    width: 200;
+}
+.ore{
+    text-align: center;
+}
+.boo sub{
+    color: red;
+
+}
+.hero-cotent{
+    color: tomato;
+}
+
+.email{
+    text-align: center;
+}
+
+h3
+{
+    text-align: center;
+}
+
+.boo{
+    padding: 8px;
+}
+
+.boo-sub{
+    color: brown;
+}
